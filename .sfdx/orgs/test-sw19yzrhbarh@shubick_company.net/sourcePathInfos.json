@@ -1,0 +1,2231 @@
+[
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511392694000,
+            "changeTime": 1511392694000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511392694000,
+            "changeTime": 1511392694000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 442,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "1edd26c99cf0c4dcf27340c3d7ff6dd27b2fa838"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "ef15b6914e6a9e432e59039e51292f9c6a5f6229"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "c9a4b5cad8ce72aa0a1c21b97385a69ec6678000",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp",
+            "isDirectory": false,
+            "size": 107,
+            "modifiedTime": 1511393325000,
+            "changeTime": 1511393325000,
+            "contentHash": "534849000c4ef1b1683950081dbf59b64a6e056c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "2f6cb00811a771de9c6ecd1ee42c77bc32e5141b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.css",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksController.js",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksHelper.js",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksRenderer.js",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation",
+        {
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1511392735000,
+            "changeTime": 1511392735000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 279,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d631b8484f7cf65ecbe56127a65e4ec278d8657d"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "acbb17c79c96e91d9c04ae4c847b7241ccde01de"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4681,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "6f2f8d42808b3c04c1a2e7d9b6ba37ea7f862ba7"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15051,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "322851d6d1ef8caf107caf445de1b6c05caef6bc"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "40bb27e6354b88edcd694651e69ac817cc859541"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12247,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "3eae4032e6c554a7c44ec277b10f9fa92de2d6cf"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 984,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "a29fa078df1fc18309a8fa02d5941312e4e41344"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "06ee26032a159736878decef296cba66ec8d8e25"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2076,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "74dc855d72862a1f62d1c9ec0535f43a229fb1a4"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1767,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "90ef2806b042926ca428c19654b9306555b53429"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "34b3b75ae3bf9cbeab38dddbbde201a7c4796062"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setStartUrl/setStartUrl.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setStartUrl/setStartUrl.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "36d4cf2f3ee9039bdae4d29a0056923260d7373b"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setExpId/setExpId.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setExpId/setExpId.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "851a447d1d532bc9e9e6c27a9dad5101c51ef34f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setExpId/setExpId.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setExpId/setExpId.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "3eb7d547ead7f9611baf1f7ee880973ccb65889c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "298b4fa92af80210e698616b87d7e73fa9b5a304"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 299,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e48bbc8023c88f57af56e6aeb270cb83679a8f3d"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1051,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "166a17a26f9d8b9b82fc1d4faab40b509ee3ec08"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1433,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "b23bd13dd4e4a91d377bd7dc39826c44fb349ffd"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPassword.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1743,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "83ef99e93cdcb75639fdd632d2b999fc099d8290"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPasswordController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword/forgotPasswordController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 773,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "0184f6d5a5fa470a8a8f8c7b004d375913c21ba5"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "fb4464a2cefc93913646a6a5d00a129c05529349"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3412,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "eb17e7321358d4e1f50506328593d32deef7e6ff"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 714,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "c50da00f4f7211befe944a7e800c75a3c31d3c81"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegisterController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegisterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1187,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "ef06f917cd8c0bd988c03393b5af12d77da34012"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegisterHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegisterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2436,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "5d16841aae0d2d234940792274ac2cfdc0414eba"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister/selfRegister.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5283,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "bd4f17ed27897ed3d475c31ee72825b9829b0e07"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "71a6ff4fd4813f1fc509ff12fbfab23b989f1a7b"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 546,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "9c45d15bab64fa1cfe6466a3cea52b68fbcc787c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginFormHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2880,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "98bf0bcfc101e8d9e670c193a2a232f02de76ff1"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1851,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e863ec165e4c2983bf703eaf60418cf394ead707"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4098,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "8cad4a3886eb1be09b766a10c7a0975c6c1fdf46"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginFormController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm/loginFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2273,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "8d7257cf23940cfb2865dced83c9f9614a160e6a"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteLogin.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteLogin.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "866dd208167a8604c93bfb0469a421eead8491cc"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteLogin.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteLogin.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1254,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "bc708781ea43467adf9e0efda09caf0e4abc96ba"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteFooter.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteFooter.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "4c1b24632a4db393ee1562c7643fa978a8eb6f71"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteFooter.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteFooter.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 77,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "8c9f2b97bbfa52fdef76795bfea4a72ea95d3258"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteHeader.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteHeader.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "7e9b5339f0eff9dcb06dffbb4118e347b361c7a5"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteHeader.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SiteHeader.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1214,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "0a710387c2669b94a3224b8016f37d0a3fc20948"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 262,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "017d27fa6375e8afadf055bc2000cd5545261a2f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SitePoweredBy.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components/SitePoweredBy.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 532,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "353f26acfff5ff089406bc9b6029fec483f8360f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Exception.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Exception.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "54c0f4bad9ce5c9146214d5bb8e741ff2518b099"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Exception.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Exception.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1716,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "830bc42abae82f60204235bc55bb4e817329b8db"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/InMaintenance.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/InMaintenance.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "450e3b34a08333ca11e8f78e61944cf03ecea035"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/InMaintenance.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/InMaintenance.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 854,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "660848468f184da3bdb013f9fdf96c6104ec33d6"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Unauthorized.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Unauthorized.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "c7e1856751fd8b9998c27db5d5744c5be40de22f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Unauthorized.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/Unauthorized.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e2d900a0e0685865732acee0c84539a31cb8638e"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "611a25db23247617cefefc1ca05e082d51e35df8"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/UnderConstruction.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/UnderConstruction.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 819,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "7e44e8eff2115cba3f9494ac0ebac64ba628e919"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 383,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "aa4f1f3dd0e8257066685833d92ec8be6bcfd6b5"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/StdExceptionTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/StdExceptionTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 918,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "ee21ef14d08dc898cc2f7c14b009b44e39843047"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "2723738e29caa02c642f7a7d3bebea16d2aff685"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 363,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "0795cba97d90e8e6f4511bdc6845b4f6ba593a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/FileNotFound.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/FileNotFound.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 362,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d60e9c668380d4e38352be6d0db5c0a4dd9c687b"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/FileNotFound.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/FileNotFound.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1667,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "5e6c03f7313422001a3df2c492db52fabdc10212"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 362,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "c83d8f2c7d23908c80874d08507ce6aed60e9548"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/BandwidthExceeded.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/BandwidthExceeded.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 746,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "af8b65b80f92aa12ee84f138858b6b1253dde9f8"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 345,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "dce1c420865593d4956a6b10db095485a9913c46"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1178,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cbc0628ee0ca131ce53c251ae3221ba5048f2020"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "637d0cbd2ffa79cf6ba09cbf9ae54dd53e6892f6"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPasswordConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPasswordConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1315,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "b36e48b39e4d3b8b31a82c9c5eee2ffffc194ee3"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "8354a155005e1e9a4ae267e32ea805c501eee86e"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegisterConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegisterConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1336,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e1c4950e6f20b5744e83b77652be25196945a53b"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "a65d7639f0f14c75bc01639ca8e0fd11e9119cbd"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/MyProfilePage.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/MyProfilePage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5352,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "620edf5c2c314699cb5acd8a29ee2897a7f4be9c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegister.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegister.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "25f6bcdab635c1b176619faa0bf47854ae274204"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegister.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/SiteRegister.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2535,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "41ff51ebecfc21b5b03567851586edbc5fefc6bf"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ChangePassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ChangePassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "25160960e0a4928793d76cb5abf3b92cac084105"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ChangePassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ChangePassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2253,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "ef99757f7f329769d4297658a07069ba6479259a"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "3c83c1099a5fb55120cb7d7c655b0300e7d62292"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/ForgotPassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1734,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d08010b952d7bc3b249a76a840810bef066c56e8"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLanding.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLanding.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "b1d03191dc3711e8961b7bee2f099597277f0928"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLanding.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLanding.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "f4f56310b743abd6983739cb9fb38a89ed8bd5d9"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e9ef779a7293f49e876929339412120343d98cd0"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfReg.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfReg.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1835,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "8740a361c26a708331f96b5d59b82154d2efcf9c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "093c03634a264cdc175ff78f1dfa5ac455023876"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfRegConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesSelfRegConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1369,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "9bd974d33dbf89a831056f0b8e84b9b425e7df18"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/IdeasHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/IdeasHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "795fa769030fc23ce49416174b1ef98c3bfbc553"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/IdeasHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/IdeasHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "321994aef1dc6905bd2f9ea1275cef640575796a"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/AnswersHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/AnswersHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "86f612c01de3adca033215414795eaf53a74dd63"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/AnswersHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/AnswersHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "a82a578935f0381f7ce194fc36f422775d6ab707"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "4fbf37a184006e0d4fa638a31f364d0b01b0f025"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 254,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "959a24656384758f13bbd30dfa419f0ca6f0392d"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d266389e853d61caabfb725984046d2166711977"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages/CommunitiesLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 143,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d494d65b30936c6c6cc4ea317ca0be26fefd0899"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1079,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e1e93bc0b3687bf1d952419a750eb1c08887706f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningLoginFormController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1975,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "7c1a64b2ee180a869fe4fec1a1df66180b44ea59"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6197,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "0078ae1357b38fec34ceffb97e7249e51daa04e6"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1332,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "21d44e671389d01c2035cb54f2a3b22777492713"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 558,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "676ee62c09240e726b685da56266e2201bf46664"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 434,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "45bce0841ca7e53e9891170118879727980b051a"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 721,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "00a06a0620a60d0ee0118431a169b4ec3ba79891"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/SiteRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2077,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "19e473741cd0e4047e59345c952d815aa05e1ac2"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 642,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "0bb3c4ec096aa5dd33d79abbb693eb98b3e899a0"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ChangePasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 467,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "769eaed52f3c934b7ad9b57adcb55a922c257168"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 506,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "66dcdb35e263e3858438516c272143f39594ab6b"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/ForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "f90081d88c1b56f4db006bf0c9022a1b23126145"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2792,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "3dad7650b8dd8e6e57710fec687bf1bb5eff80bd"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/MyProfilePageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1584,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "2e72ea98db541366419984e2a8878f467de5a3e5"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb9e706e4f2584adcf80c77bf7fd48a140f907db"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cf9f2476b780b0f6cf19e569521fe72388a25bf6"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 369,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "f0aa4e4a73ec760302173389f42991266a807010"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesLandingControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "9fc17f3ba0a097f66fc1467c82c8e1d22398b48f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "84070006a2c57644fd7d707525e9297ec15f91a0"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2805,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "68250b28cbd25dc5afb432323903534767578a58"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 469,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e91f7457a25b5da77131fe41c8f29c04bc7867c2"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d699d2c76978ccad1fc33fcd78ed17c360747337"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1038,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "326dc096dacead23bcce832cafa8046eeff5821c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes/LightningSelfRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5550,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e6373f9f5a43b6f42bc645cbfe07cd15143bdb93"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/profiles/test Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/profiles/test Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7158,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "60e8a71564bc080d4a2c9abeaf638c542c082c80"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/sites/test.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/sites/test.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1558,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "fa36eb710ed67b3909008735dc74a251f5c2f84f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/contentassets/raptor.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/contentassets/raptor.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 713,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "e0c38c39d9368455a9e7fcc9fb33cf7da10c5fde"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/contentassets/raptor.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/contentassets/raptor.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 38611,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d7b63bad5100f4bc3293955c590e1ec72a8e7778"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/siteDotComSites/test1.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/siteDotComSites/test1.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "c028d42d7df76f2b5fe73a3555cbd679581a8447"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/siteDotComSites/test1.site",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/siteDotComSites/test1.site",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 914198,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "2528d4b29c9dac1046b49972b145587434494d03"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networks/test.network-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networks/test.network-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2859,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "85a7ce168eaadde9d953e1f55ce5ea119d2cdc97"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networkBranding/cbtest.networkBranding-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networkBranding/cbtest.networkBranding-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 625,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "d36dd8236376f112d18afdd4729511b6688e1a7b"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networkBranding/cbtest.networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networkBranding/cbtest.networkBranding",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "94b65d41e40870e77f72cba72966f3bed8bd0800"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "9f4bb3dd78853fee52f25b5a18949a8603beab6b"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/staticresources/SiteSamples/img",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "ca36f65b7f8888bd595c26bba98c091a986284ab"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setStartUrl",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setStartUrl",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "932a38c2997891d2654c0893c0e1a4288e7c15ff"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setExpId",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/setExpId",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "11feaa7814348a87d18c4891772d2ec32891466d"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/forgotPassword",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "6df7eaba9112e9d3d73be83929076ecdb37c6e02"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/selfRegister",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "8df7cfb5f48f3f00fcd4dd27c869c4cfdccd250c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/loginForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "fd718632c89a370e59634cc3aa2c6f67e9702b0c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "7e3b47b6f015d41da2682d23c08c6bd410b8f4bb"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1564,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "54a2cf26a57a9ce2c57e7c0f9e4e09990ad938cc"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1700,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "6f5330cd9b23701912e496f4429bfea73e9c7891"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "6b2fa93f2b75e07aee846617969b6d6f33ac3b7c"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/sites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/sites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "7f908416523e7c3f2b6366b10038dc4fa585b7ac"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "95b8ff62c333066deea2a8a252b158f10e1538c7"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/siteDotComSites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/siteDotComSites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "9083675b1fa23e76469c186de725511a7fa2e36d"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networks",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "ef566f92cf2ab7fd8187662561f577c775cee6b9"
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/networkBranding",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511393724000,
+            "changeTime": 1511393724000,
+            "contentHash": "80b0f447ba0a7ccb9cb7586d31818e1f10052905"
+        }
+    ]
+]

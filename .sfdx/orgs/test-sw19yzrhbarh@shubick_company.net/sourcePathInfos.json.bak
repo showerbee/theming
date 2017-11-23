@@ -1,0 +1,182 @@
+[
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511392694000,
+            "changeTime": 1511392694000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511392694000,
+            "changeTime": 1511392694000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511392694000,
+            "changeTime": 1511392694000,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "8c9d71501e1c276a7bbb28f0fe27c1e1c24985eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "c9a4b5cad8ce72aa0a1c21b97385a69ec6678000",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 54,
+            "modifiedTime": 1511392780000,
+            "changeTime": 1511392780000,
+            "contentHash": "9e3c7be2597911ef7f9afab94e04b4989ff23312",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "2f6cb00811a771de9c6ecd1ee42c77bc32e5141b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocks.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation/force-app/main/default/aura/pedarocks/pedarocksRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1511392772000,
+            "changeTime": 1511392772000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shubick/blt/app/main/core/geolocation",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shubick/blt/app/main/core/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1511392735000,
+            "changeTime": 1511392735000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
